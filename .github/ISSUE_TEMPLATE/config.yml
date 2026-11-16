@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/drizza-dev/drizza/discussions
+    about: Ask questions and discuss ideas in GitHub Discussions.
+  - name: Documentation
+    url: https://docs.drizza.dev
+    about: Setup guides and reference for drizza.
+  - name: Report a security vulnerability
+    url: https://github.com/drizza-dev/drizza/security/advisories/new
+    about: Report security issues privately. Do not open a public issue.
